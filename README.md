@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--!
+
 I'm a Machine Learning Specialist with a master's in Computer Engineering rom Polytechnique Montréal and over two years of expertise in developing advanced deep learning models, particularly focusing on cutting-edge architectures in NLP for text data.
 l deeply engrossed in the exploration of NLP and its application within healthcare. My academic journey was marked by a fervent pursuit of knowledge in machine learning technologies and a commitment to applying this expertise to real-world challenges.
 I’ve been passionate about applying data-driven approaches to solve real-world challenges, especially in the context of language, information retrieval, and intelligent systems.
