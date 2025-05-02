@@ -14,9 +14,13 @@ I welcome the chance to connect with professionals and organizations passionate 
 My technical expertise lies in the following areas:
 
 Programming Languages and Database: Python(Numpy, Pandas, Scikit-learn), SQL.
+
 Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras.
+
 Model Development: Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
+
 NLP and Text: Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
+
 Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
 
 I am currently exploring new opportunities in Machine Learning and Data Science to further advance my journey in these domains.
