@@ -1,6 +1,6 @@
- 👋 Ali Elahi Naraqi
+# 👋 Ali Elahi Naraqi
 
-📊 Data Scientist · 🤖 Machine Learning Engineer · 📈 Data Analyst
+### 📊 Data Scientist · 🤖 Machine Learning Engineer · 📈 Data Analyst
 
 I am a data and machine learning professional with 3+ years of experience building NLP systems, predictive models, recommendation engines, analytics solutions, and LLM/RAG applications.
 
@@ -9,13 +9,13 @@ I hold an M.Sc. in Computer Engineering from Polytechnique Montréal, where my r
 📍 Canada · Open to opportunities in Toronto and across Canada
 
 
- 🚀 Selected Impact
+## 🚀 Selected Impact
 
- 🏥 Developed a healthcare NLP classifier covering 25 symptom categories with 95% validation accuracy
- 🔎 Built a recommendation system using more than 11,000 healthcare-provider records
- 📊 Analyzed behavioural and operational datasets containing more than 24 million records
- ⚡ Automated reporting workflows, reducing turnaround time from approximately two days to three hours
- 📈 Delivered analytics that contributed to an approximately 15% increase in user engagement
+* 🏥 Developed a healthcare NLP classifier covering 25 symptom categories with 95% validation accuracy
+* 🔎 Built a recommendation system using more than 11,000 healthcare-provider records
+* 📊 Analyzed behavioural and operational datasets containing more than 24 million records
+* ⚡ Automated reporting workflows, reducing turnaround time from approximately two days to three hours
+* 📈 Delivered analytics that contributed to an approximately 15% increase in user engagement
 
 ## 🧩 Featured Projects
 
@@ -27,32 +27,32 @@ Cost-sensitive fraud modelling, FastAPI serving, SHAP explanations, MLflow track
 
 Document Q&A using LangChain, FAISS, local embeddings, OpenAI or Anthropic models, streaming responses, and page-level citations.
 
-🔄 [Production ETL Pipeline](https://github.com/AliNaraqi/Production-ETL-Pipeline)
+### 🔄 [Production ETL Pipeline](https://github.com/AliNaraqi/Production-ETL-Pipeline)
 
 Prefect-orchestrated ingestion, Great Expectations validation, DuckDB storage, dbt transformations, analytical marts, and automated tests.
 
-🎮 [Rainbow Six Siege Data Analysis](https://github.com/AliNaraqi/RAINBOW-SIX-SIEGE-DATA-ANALYSIS-PROJECT)
+### 🎮 [Rainbow Six Siege Data Analysis](https://github.com/AliNaraqi/RAINBOW-SIX-SIEGE-DATA-ANALYSIS-PROJECT)
 
 Large-scale gaming analysis of more than 24 million records covering player behaviour, operators, ranks, maps, platforms, weapons, and round outcomes.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-💻 Programming and data: Python, SQL, JavaScript, pandas, NumPy
-🧠 Machine learning: scikit-learn, TensorFlow, PyTorch, XGBoost, classification, recommendation systems, deep learning
-✨ NLP and Generative AI: Hugging Face, LangChain, FAISS, RAG, LLM applications, prompt engineering
-🗄️ Data engineering: Spark, Azure Databricks, dbt, DuckDB, Prefect
-⚙️ Deployment and MLOps: FastAPI, Streamlit, Docker, MLflow, Evidently, model monitoring, experiment tracking, unit testing
-📊 Analytics and visualization: Power BI, Tableau, Matplotlib, Seaborn
-🔧 Development: Git, GitHub Actions, Linux
+* 💻 Programming and data: Python, SQL, JavaScript, pandas, NumPy
+* 🧠 Machine learning: scikit-learn, TensorFlow, PyTorch, XGBoost, classification, recommendation systems, deep learning
+* ✨ NLP and Generative AI: Hugging Face, LangChain, FAISS, RAG, LLM applications, prompt engineering
+* 🗄️ Data engineering: Spark, Azure Databricks, dbt, DuckDB, Prefect
+* ⚙️ Deployment and MLOps: FastAPI, Streamlit, Docker, MLflow, Evidently, model monitoring, experiment tracking, unit testing
+* 📊 Analytics and visualization: Power BI, Tableau, Matplotlib, Seaborn
+* 🔧 Development: Git, GitHub Actions, Linux
 
-🎓 Education
+## 🎓 Education
 
 M.Sc. in Computer Engineering
 Polytechnique Montréal · Montréal, Canada
 
 Research focus: healthcare NLP, symptom classification, and provider recommendation systems.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ali-elahi-naraqi)
 💻 [GitHub](https://github.com/AliNaraqi)
