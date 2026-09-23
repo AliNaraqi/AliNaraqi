@@ -6,8 +6,8 @@ I am a data and machine learning professional with 3+ years of experience buildi
 
 I hold an M.Sc. in Computer Engineering from Polytechnique Montréal, where my research focused on healthcare NLP, symptom classification, and intelligent provider recommendation. I enjoy turning complex data into reliable models, actionable insights, and deployable products.
 
-📍 Montréal, Canada · Open to opportunities in Toronto and across Canada
-💼 Freelance Data Scientist / ML Engineer
+📍 Canada · Open to opportunities in Toronto and across Canada
+
 
  🚀 Selected Impact
 
