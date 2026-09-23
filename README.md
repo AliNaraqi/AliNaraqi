@@ -1,26 +1,51 @@
 ## Hi there 👋
 
+I'm Ali Elahi Naraqi 👋
+Data Scientist · Machine Learning Engineer · Data Analyst
 
-I'm a Machine Learning Specialist with a master's in Computer Engineering rom Polytechnique Montréal and over two years of expertise in developing advanced deep learning models, particularly focusing on cutting-edge architectures in NLP for text data.
-l deeply engrossed in the exploration of NLP and its application within healthcare. My academic journey was marked by a fervent pursuit of knowledge in machine learning technologies and a commitment to applying this expertise to real-world challenges.
-I’ve been passionate about applying data-driven approaches to solve real-world challenges, especially in the context of language, information retrieval, and intelligent systems.
+I am a data and machine learning professional with 3+ years of experience across NLP, predictive modelling, recommendation systems, analytics, and LLM/RAG applications.
 
-My experience includes developing NLP models, building data pipelines, and working with tools such as Python, Scikit-learn, TensorFlow, and Hugging Face. I thrive in environments that value innovation, collaboration, and impactful problem-solving.
+I completed my M.Sc. in Computer Engineering at Polytechnique Montréal, where my research focused on healthcare NLP, symptom classification, and intelligent provider recommendation. I enjoy transforming complex data into reliable models, actionable insights, and deployable applications.
 
-With the completion of my master's degree on the horizon, I am eager to delve further into the field of data science and NLP. I am on the lookout for opportunities that will challenge me and allow me to contribute to innovative projects that leverage data to make a meaningful impact.
-I welcome the chance to connect with professionals and organizations passionate about technology's role in driving progress and innovation. Let’s explore how we can make a difference together!
+📍 Canada · Open to opportunities in Toronto and across Canada
+💼 Currently working as a Freelance Data Scientist / ML Engineer
 
-🔧 Skills and Expertise
-My technical expertise lies in the following areas:
+Selected Impact
+   Developed a healthcare NLP classifier covering 25 symptom categories and achieving 95% validation accuracy
+   Built a recommendation system using more than 11,000 healthcare-provider records
+   Analyzed behavioural and operational datasets containing more than 24 million records
+   Automated reporting workflows, reducing turnaround time from approximately two days to three hours
+   Delivered data-driven recommendations that contributed to an approximately 15% increase in user engagement
 
-Programming Languages and Database: Python(Numpy, Pandas, Scikit-learn), SQL.
+Featured Projects
+Real-Time Fraud Detection and Monitoring Platform
 
-Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras.
+Production-style fraud detection system featuring cost-sensitive modelling, FastAPI serving, SHAP explanations, MLflow experiment tracking, Evidently drift monitoring, Kafka/Redpanda streaming, Prometheus, Grafana, Docker, CI, and automated tests.
 
-Model Development: Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
+DocMind — LLM-Powered PDF Q&A with RAG
 
-NLP and Text: Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
+Document-question-answering application using LangChain, FAISS, local embeddings, OpenAI or Anthropic models, streaming responses, and page-level source citations.
 
-Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
+Production ETL Pipeline
 
-I am currently exploring new opportunities in Machine Learning and Data Science to further advance my journey in these domains.
+Data pipeline integrating REST and synthetic data sources with Prefect orchestration, Great Expectations validation, DuckDB storage, dbt transformations, analytical marts, and automated tests.
+
+Rainbow Six Siege Data Analysis
+
+Large-scale gaming analysis of more than 24 million gameplay records, covering operator performance, ranks, maps, platforms, weapons, round outcomes, and player behaviour.
+
+Technical Skills
+
+Programming and data: Python, SQL, JavaScript, pandas, NumPy
+Machine learning: scikit-learn, TensorFlow, PyTorch, XGBoost, classification, recommendation systems, deep learning
+NLP and Generative AI: Hugging Face, LangChain, FAISS, RAG, LLM applications, prompt engineering
+Data engineering and big data: Spark, Azure Databricks, dbt, DuckDB, Prefect
+Deployment and MLOps: FastAPI, Streamlit, Docker, MLflow, Evidently, model monitoring, experiment tracking, unit testing
+Analytics and visualization: Power BI, Tableau, Matplotlib, Seaborn
+Development: Git, GitHub Actions, Linux
+Education
+
+M.Sc. in Computer Engineering
+Polytechnique Montréal · Montréal, Canada
+
+Research focus: healthcare NLP, symptom classification, and provider recommendation systems.
