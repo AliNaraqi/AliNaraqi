@@ -2,7 +2,7 @@
 
 ### 📊 Data Scientist · 🤖 Machine Learning Engineer · 📈 Data Analyst
 
-I am a data and machine learning professional with 3+ years of experience building NLP systems, predictive models, recommendation engines, analytics solutions, and LLM/RAG applications.
+I am a data and machine learning professional with 4+ years of experience building NLP systems, predictive models, recommendation engines, analytics solutions, and LLM/RAG applications.
 
 I hold an M.Sc. in Computer Engineering from Polytechnique Montréal, where my research focused on healthcare NLP, symptom classification, and intelligent provider recommendation. I enjoy turning complex data into reliable models, actionable insights, and deployable products.
 
